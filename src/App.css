@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+table {
+  position: absolute;
+  width: 100%;
+  max-width: 1200px;  
+
+}
+.Tab {
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  border: 1px solid black;
+}
+.modal {
+  position: relative;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin: 0 auto;
+  width: 60%;
+  padding: 15px;
+  background-color: darkgray;
+}
