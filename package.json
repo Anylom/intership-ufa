@@ -1,6 +1,7 @@
 {
   "name": "intership-ufa",
   "version": "0.1.0",
+  "homepage": "https://anylom.github.io/intership-ufa/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
