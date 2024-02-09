@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/intership-ufa/static/css/main.0df5e8bb.css",
+    "main.js": "/intership-ufa/static/js/main.2a40849a.js",
+    "static/js/787.b95fbc93.chunk.js": "/intership-ufa/static/js/787.b95fbc93.chunk.js",
+    "index.html": "/intership-ufa/index.html",
+    "main.0df5e8bb.css.map": "/intership-ufa/static/css/main.0df5e8bb.css.map",
+    "main.2a40849a.js.map": "/intership-ufa/static/js/main.2a40849a.js.map",
+    "787.b95fbc93.chunk.js.map": "/intership-ufa/static/js/787.b95fbc93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df5e8bb.css",
+    "static/js/main.2a40849a.js"
+  ]
+}
